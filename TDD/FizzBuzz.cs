@@ -19,7 +19,7 @@ namespace TDD
             }
             else
             {
-                return p;
+                return "";
             }
         }
 
